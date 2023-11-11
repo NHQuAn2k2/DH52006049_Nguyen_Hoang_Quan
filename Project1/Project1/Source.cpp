@@ -15,6 +15,5 @@ int main() {
 	int n;
 	cout << "nhap so nguyen: ";
 	cin >> n;
-	cout << 17 % 3;
 	kiemTraSoHoanThien(n);
 }
